@@ -1,0 +1,24 @@
+.full_porject{
+	width:100%;
+	margin-top: 100px;
+	margin-left: 30%;
+}
+
+.potakar_sobuj_onss{
+	width:500px;
+	height:300px;
+	background-color:green;
+	margin:auto;
+	overflow:hidden;
+	float: left;
+}
+.potakar_lal_onss{
+	width:200px;
+	height:200px;
+	background:red;
+	border-radius: 50%;
+	margin-left: 142px;
+	float: right;
+	margin-right: 153px;
+	margin-top: 45px;
+}
